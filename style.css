@@ -1,0 +1,22 @@
+.bg-img1 {
+  /* background-color: #000;
+  background-size: cover;
+  background-image: url(); */
+
+  padding-top: 100vh;
+  background: url(/img/bg-1.jpg) top center / cover no-repeat;
+}
+
+.bg-img2 {
+  padding-top: 100vh;
+  background: url(/img/bg-2.jpg) top center / cover no-repeat;
+}
+
+.bg-img3 {
+  padding-top: 100vh;
+  background: url(/img/bg-3.jpg) top center / cover no-repeat;
+}
+
+.info {
+  height: 200px;
+}
